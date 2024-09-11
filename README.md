@@ -82,9 +82,9 @@ Sample run:
 Three digit number: 678
 
 Here are the digits:
-6
-7
 8
+7
+6
 ```
 
 ## Problem3
